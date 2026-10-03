@@ -44,6 +44,11 @@ costly, and a variant can destabilise the protein without affecting
 clinical outcome. Each layer carries independent information.
 
 ---
+![Three-layer summary](figures/phase4_class_summary.png)
+
+*Left: conservation vs ΔΔG across 40 substitutions (ρ = 0.17, n = 40).
+Center: mean ΔΔG per EGFR class. Right: clinical HR per class (TCGA-LUAD).
+The three panels do not move together — that is the finding.*
 
 ## Pipeline
 
@@ -120,6 +125,35 @@ the mutation is destabilising. The distribution across 40 substitutions:
 
 The right-skewed distribution is expected: most substitutions are near-neutral,
 but a small set of core mutations are highly destabilising.
+
+## Structural Views
+
+### Kinase domain colored by ΔΔG
+
+![Kinase domain ΔΔG](figures/pymol_kinase_ddg.png)
+
+*AlphaFold EGFR kinase domain (residues 707–982). Grey cartoon, red
+spheres mark residues with ΔΔG > 3 kcal/mol. Black sticks mark
+L858R, T790M, G719X, L861Q, S768I. The P-loop at 719–724 is the
+concentrated destabilisation hotspot.*
+
+### Kinase domain colored by conservation
+
+![Kinase domain conservation](figures/pymol_kinase_conservation.png)
+
+*Same view, colored by conservation score. Green = invariant across
+all four vertebrate orthologs; orange = score 2; red = score 1. The
+domain is almost uniformly green because 88% of clinical variants
+fall at conserved positions.*
+
+### ATP site and allosteric pocket
+
+![ATP and allosteric site](figures/pymol_atp_allosteric.png)
+
+*Orange sticks: ATP-binding residues (K745, T790, M793, C797, D855, F856).
+Purple: L858 — the allosteric pocket residue from Project 1. T790 sits
+directly in the ATP pocket (why T790M blocks drug binding); L858 sits
+3.3 Å away (why L858R affects allostery without touching ATP).*
 
 ### Notable variants
 
@@ -288,6 +322,13 @@ Together, the four projects investigate EGFR from structure, evolution, and
 clinical outcome, and then test whether the three perspectives agree.
 
 ---
+### Full-length EGFR colored by ΔΔG
+
+![Full-length EGFR](figures/pymol_full_length_ddg.png)
+
+*Full-length human EGFR (UniProt P00533, 1,210 residues). Red spheres
+mark residues with ΔΔG > 3 kcal/mol. The extracellular domain is largely
+unaffected; the kinase core holds the destabilising substitutions.*
 
 ## Author
 

@@ -1,0 +1,78 @@
+protein_change	cohort	mutation_type	variant_type	residues	first_residue	last_residue	ref_aa	alt_aa
+E545Q	TCGA-LUAD	Missense_Mutation	substitution	545	545.0	545.0	E	Q
+R222L	TCGA-LUAD	Missense_Mutation	substitution	222	222.0	222.0	R	L
+I759N	TCGA-LUAD	Missense_Mutation	substitution	759	759.0	759.0	I	N
+T751_I759delinsN	TCGA-LUAD	In_Frame_Del	delins	751,752,753,754,755,756,757,758,759	751.0	759.0		N
+R377S	TCGA-LUAD	Missense_Mutation	substitution	377	377.0	377.0	R	S
+L833F	TCGA-LUAD	Missense_Mutation	substitution	833	833.0	833.0	L	F
+L861Q	TCGA-LUAD	Missense_Mutation	substitution	861	861.0	861.0	L	Q
+G721V	TCGA-LUAD	Missense_Mutation	substitution	721	721.0	721.0	G	V
+E746_A750del	TCGA-LUAD	In_Frame_Del	deletion	746,747,748,749,750	746.0	750.0		
+L858R	TCGA-LUAD	Missense_Mutation	substitution	858	858.0	858.0	L	R
+D770_N771insGL	TCGA-LUAD	In_Frame_Ins	insertion	770,771	770.0	771.0		GL
+L62R	TCGA-LUAD	Missense_Mutation	substitution	62	62.0	62.0	L	R
+A767_V769dup	TCGA-LUAD	In_Frame_Ins	other					
+G719C	TCGA-LUAD	Missense_Mutation	substitution	719	719.0	719.0	G	C
+S768I	TCGA-LUAD	Missense_Mutation	substitution	768	768.0	768.0	S	I
+T790M	TCGA-LUAD	Missense_Mutation	substitution	790	790.0	790.0	T	M
+X210_splice	TCGA-LUAD	Splice_Region	other					
+L833V	TCGA-LUAD	Missense_Mutation	substitution	833	833.0	833.0	L	V
+K754_I759del	TCGA-LUAD	In_Frame_Del	deletion	754,755,756,757,758,759	754.0	759.0		
+G719A	TCGA-LUAD	Missense_Mutation	substitution	719	719.0	719.0	G	A
+H773dup	TCGA-LUAD	In_Frame_Ins	other					
+E866K	TCGA-LUAD	Missense_Mutation	substitution	866	866.0	866.0	E	K
+E709_T710delinsD	TCGA-LUAD	In_Frame_Del	delins	709,710	709.0	710.0		D
+L747_T751del	TCGA-LUAD	In_Frame_Del	deletion	747,748,749,750,751	747.0	751.0		
+V300M	TCGA-LUAD	Missense_Mutation	substitution	300	300.0	300.0	V	M
+K754E	TCGA-LUAD	Missense_Mutation	substitution	754	754.0	754.0	K	E
+L747_E749del	TCGA-LUAD	In_Frame_Del	deletion	747,748,749	747.0	749.0		
+Q486*	TCGA-LUAD	Nonsense_Mutation	other					
+L747_A750delinsP	TCGA-LUAD	In_Frame_Del	delins	747,748,749,750	747.0	750.0		P
+L387M	TCGA-LUAD	Missense_Mutation	substitution	387	387.0	387.0	L	M
+D1083Efs*11	TCGA-LUAD	Frame_Shift_Del	other					
+Q432H	TCGA-LUAD	Missense_Mutation	substitution	432	432.0	432.0	Q	H
+K754I	TCGA-LUAD	Missense_Mutation	substitution	754	754.0	754.0	K	I
+G901V	TCGA-LUAD	Missense_Mutation	substitution	901	901.0	901.0	G	V
+L907M	TCGA-LUAD	Missense_Mutation	substitution	907	907.0	907.0	L	M
+S921R	TCGA-LUAD	Missense_Mutation	substitution	921	921.0	921.0	S	R
+I91V	TCGA-LUAD	Missense_Mutation	substitution	91	91.0	91.0	I	V
+R1052I	TCGA-LUAD	Missense_Mutation	substitution	1052	1052.0	1052.0	R	I
+G627*	TCGA-LUAD	Nonsense_Mutation	other					
+L858R	OncoSG	Missense_Mutation	substitution	858	858.0	858.0	L	R
+L62R	OncoSG	Missense_Mutation	substitution	62	62.0	62.0	L	R
+L747_P753delinsS	OncoSG	In_Frame_Del	delins	747,748,749,750,751,752,753	747.0	753.0		S
+I759M	OncoSG	Missense_Mutation	substitution	759	759.0	759.0	I	M
+E746_T751delinsA	OncoSG	In_Frame_Del	delins	746,747,748,749,750,751	746.0	751.0		A
+E746_A750del	OncoSG	In_Frame_Del	deletion	746,747,748,749,750	746.0	750.0		
+V769_D770insSSV	OncoSG	In_Frame_Ins	insertion	769,770	769.0	770.0		SSV
+E746_S752delinsA	OncoSG	In_Frame_Del	delins	746,747,748,749,750,751,752	746.0	752.0		A
+S768_D770dup	OncoSG	In_Frame_Ins	other					
+L861Q	OncoSG	Missense_Mutation	substitution	861	861.0	861.0	L	Q
+T751Nfs*4	OncoSG	Frame_Shift_Del	other					
+T790M	OncoSG	Missense_Mutation	substitution	790	790.0	790.0	T	M
+E709_T710delinsD	OncoSG	In_Frame_Del	delins	709,710	709.0	710.0		D
+X762_splice	OncoSG	Splice_Region	other					
+L833F	OncoSG	Missense_Mutation	substitution	833	833.0	833.0	L	F
+A767_V769dup	OncoSG	In_Frame_Ins	other					
+G719S	OncoSG	Missense_Mutation	substitution	719	719.0	719.0	G	S
+S768I	OncoSG	Missense_Mutation	substitution	768	768.0	768.0	S	I
+L747_S752del	OncoSG	In_Frame_Del	deletion	747,748,749,750,751,752	747.0	752.0		
+V843I	OncoSG	Missense_Mutation	substitution	843	843.0	843.0	V	I
+H870R	OncoSG	Missense_Mutation	substitution	870	870.0	870.0	H	R
+L833V	OncoSG	Missense_Mutation	substitution	833	833.0	833.0	L	V
+R748Hfs*15	OncoSG	Frame_Shift_Del	other					
+V769L	OncoSG	Missense_Mutation	substitution	769	769.0	769.0	V	L
+G719C	OncoSG	Missense_Mutation	substitution	719	719.0	719.0	G	C
+D256Y	OncoSG	Missense_Mutation	substitution	256	256.0	256.0	D	Y
+G724A	OncoSG	Missense_Mutation	substitution	724	724.0	724.0	G	A
+H835L	OncoSG	Missense_Mutation	substitution	835	835.0	835.0	H	L
+L747_A750del	OncoSG	In_Frame_Del	deletion	747,748,749,750	747.0	750.0		
+V834L	OncoSG	Missense_Mutation	substitution	834	834.0	834.0	V	L
+L747_E749del	OncoSG	In_Frame_Del	deletion	747,748,749	747.0	749.0		
+V774M	OncoSG	Missense_Mutation	substitution	774	774.0	774.0	V	M
+L707W	OncoSG	Missense_Mutation	substitution	707	707.0	707.0	L	W
+E548Q	OncoSG	Missense_Mutation	substitution	548	548.0	548.0	E	Q
+L747_T751del	OncoSG	In_Frame_Del	deletion	747,748,749,750,751	747.0	751.0		
+E709A	OncoSG	Missense_Mutation	substitution	709	709.0	709.0	E	A
+R973L	OncoSG	Missense_Mutation	substitution	973	973.0	973.0	R	L
+A566S	OncoSG	Missense_Mutation	substitution	566	566.0	566.0	A	S

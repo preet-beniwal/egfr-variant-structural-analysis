@@ -132,10 +132,7 @@ but a small set of core mutations are highly destabilising.
 
 ![Kinase domain ΔΔG](figures/pymol_kinase_ddg.png)
 
-*AlphaFold EGFR kinase domain (residues 707–982). Grey cartoon, red
-spheres mark residues with ΔΔG > 3 kcal/mol. Black sticks mark
-L858R, T790M, G719X, L861Q, S768I. The P-loop at 719–724 is the
-concentrated destabilisation hotspot.*
+*AlphaFold EGFR kinase domain (residues 707–982), cartoon colored by FoldX ΔΔG on a blue-to-red scale (blue = stable, red = destabilizing). Residues with ΔΔG > 3 kcal/mol are shown as spheres. Black sticks mark the classic variants L858R, T790M, G719X, L861Q, S768I.*
 
 ### Kinase domain colored by conservation
 
@@ -326,9 +323,7 @@ clinical outcome, and then test whether the three perspectives agree.
 
 ![Full-length EGFR](figures/pymol_full_length_ddg.png)
 
-*Full-length human EGFR (UniProt P00533, 1,210 residues). Red spheres
-mark residues with ΔΔG > 3 kcal/mol. The extracellular domain is largely
-unaffected; the kinase core holds the destabilising substitutions.*
+*Full-length human EGFR (UniProt P00533, 1,210 residues), colored by ΔΔG on a blue-to-red scale. The extracellular and transmembrane domains are largely unaffected (blue); the destabilizing substitutions concentrate in the kinase core.*
 
 ## Author
 

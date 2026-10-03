@@ -1,0 +1,13 @@
+name: egfr_struct
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - biopython
+  - biotite
+  - pymol-open-source
+  - requests
+  - pandas
+  - numpy
+  - matplotlib

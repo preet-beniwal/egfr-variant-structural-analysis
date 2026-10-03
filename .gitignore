@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Working files
+*.tmp
+*.log
+
+# FoldX working directory (regenerable)
+data/foldx_work/
+data/*_clean.pdb
+
+# PyMOL session autosaves
+*.pse.bak
+
+# OS
+.DS_Store
+Thumbs.db

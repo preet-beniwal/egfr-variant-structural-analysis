@@ -17,3 +17,21 @@ data/*_clean.pdb
 # OS
 .DS_Store
 Thumbs.db
+# FoldX binary and data (86 MB, not redistributable)
+tools/
+data/foldx/*_Repair.pdb
+data/foldx/*_clean.pdb
+data/foldx/EGFR_clean.pdb
+data/foldx/repair*.log
+data/foldx/buildmodel.log
+data/foldx/*.fxout
+data/foldx/ddg/
+data/foldx/molecules/
+data/foldx/*.zip
+data/foldx/*.txt
+
+# But keep the individual_list for reproducibility (small text file)
+!data/foldx/individual_list.txt
+# FoldX binary and working directory (regenerable, large)
+tools/
+data/foldx/

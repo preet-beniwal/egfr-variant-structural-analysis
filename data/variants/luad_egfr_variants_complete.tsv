@@ -1,0 +1,67 @@
+protein_change	cohort	mutation_type	variant_type	residues	first_residue	last_residue	ref_aa	alt_aa	anchor_residue	human_codon	human_aa	codons_by_species	aa_by_species	conservation_score	ddg_kcal_per_mol	ddg_std	n_runs
+E545Q	TCGA-LUAD	Missense_Mutation	substitution	545	545.0	545.0	E	Q	545	GAG	E	chick=GAG|human=GAG|mouse=GAA|zebra=GAG	chick=E|human=E|mouse=E|zebra=E	3	-0.131	0.101	3.0
+R222L	TCGA-LUAD	Missense_Mutation	substitution	222	222.0	222.0	R	L	222	CGC	R	chick=CGG|human=CGC|mouse=CGC|zebra=AGG	chick=R|human=R|mouse=R|zebra=R	3	3.83	0.275	3.0
+I759N	TCGA-LUAD	Missense_Mutation	substitution	759	759.0	759.0	I	N	759	ATC	I	chick=ATA|human=ATC|mouse=ATC|zebra=ATA	chick=I|human=I|mouse=I|zebra=I	3	2.806	0.032	3.0
+T751_I759delinsN	TCGA-LUAD	In_Frame_Del	delins	751,752,753,754,755,756,757,758,759	751.0	759.0		N	751	ACA	T	chick=ACA|human=ACA|mouse=ACA|zebra=ACG	chick=T|human=T|mouse=T|zebra=T	3			
+R377S	TCGA-LUAD	Missense_Mutation	substitution	377	377.0	377.0	R	S	377	AGG	R	chick=CTA|human=AGG|mouse=AAG|zebra=AGA	chick=L|human=R|mouse=K|zebra=R	1	0.461	0.027	3.0
+L833F	TCGA-LUAD	Missense_Mutation	substitution	833	833.0	833.0	L	F	833	TTG	L	chick=CTG|human=TTG|mouse=TTG|zebra=CTT	chick=L|human=L|mouse=L|zebra=L	3	-0.372	0.104	3.0
+L861Q	TCGA-LUAD	Missense_Mutation	substitution	861	861.0	861.0	L	Q	861	CTG	L	chick=CTG|human=CTG|mouse=CTG|zebra=CTG	chick=L|human=L|mouse=L|zebra=L	3	1.283	0.204	3.0
+G721V	TCGA-LUAD	Missense_Mutation	substitution	721	721.0	721.0	G	V	721	GGT	G	chick=GGA|human=GGT|mouse=GGA|zebra=GGG	chick=G|human=G|mouse=G|zebra=G	3	2.374	0.903	3.0
+E746_A750del	TCGA-LUAD	In_Frame_Del	deletion	746,747,748,749,750	746.0	750.0			746	GAA	E	chick=GAA|human=GAA|mouse=GAG|zebra=GTC	chick=E|human=E|mouse=E|zebra=V	2			
+L858R	TCGA-LUAD	Missense_Mutation	substitution	858	858.0	858.0	L	R	858	CTG	L	chick=CTG|human=CTG|mouse=CTG|zebra=CTC	chick=L|human=L|mouse=L|zebra=L	3	-0.025	0.317	3.0
+D770_N771insGL	TCGA-LUAD	In_Frame_Ins	insertion	770,771	770.0	771.0		GL	770	GAC	D	chick=GAC|human=GAC|mouse=GAC|zebra=GAG	chick=D|human=D|mouse=D|zebra=E	2			
+L62R	TCGA-LUAD	Missense_Mutation	substitution	62	62.0	62.0	L	R	62	CTT	L	chick=CTG|human=CTT|mouse=CTT|zebra=CTG	chick=L|human=L|mouse=L|zebra=L	3	2.144	0.433	3.0
+G719C	TCGA-LUAD	Missense_Mutation	substitution	719	719.0	719.0	G	C	719	GGC	G	chick=GGC|human=GGC|mouse=GGT|zebra=GGC	chick=G|human=G|mouse=G|zebra=G	3	6.405	0.312	3.0
+S768I	TCGA-LUAD	Missense_Mutation	substitution	768	768.0	768.0	S	I	768	AGC	S	chick=AGT|human=AGC|mouse=AGT|zebra=AGT	chick=S|human=S|mouse=S|zebra=S	3	1.43	0.172	3.0
+T790M	TCGA-LUAD	Missense_Mutation	substitution	790	790.0	790.0	T	M	790	ACG	T	chick=ACC|human=ACG|mouse=ACA|zebra=ACT	chick=T|human=T|mouse=T|zebra=T	3	-1.117	0.013	3.0
+L833V	TCGA-LUAD	Missense_Mutation	substitution	833	833.0	833.0	L	V	833	TTG	L	chick=CTG|human=TTG|mouse=TTG|zebra=CTT	chick=L|human=L|mouse=L|zebra=L	3	0.939	0.02	3.0
+K754_I759del	TCGA-LUAD	In_Frame_Del	deletion	754,755,756,757,758,759	754.0	759.0			754	AAA	K	chick=AAA|human=AAA|mouse=AAA|zebra=AAA	chick=K|human=K|mouse=K|zebra=K	3			
+G719A	TCGA-LUAD	Missense_Mutation	substitution	719	719.0	719.0	G	A	719	GGC	G	chick=GGC|human=GGC|mouse=GGT|zebra=GGC	chick=G|human=G|mouse=G|zebra=G	3	4.784	0.233	3.0
+E866K	TCGA-LUAD	Missense_Mutation	substitution	866	866.0	866.0	E	K	866	GAG	E	chick=GAG|human=GAG|mouse=GAG|zebra=GAG	chick=E|human=E|mouse=E|zebra=E	3	-0.036	0.038	3.0
+E709_T710delinsD	TCGA-LUAD	In_Frame_Del	delins	709,710	709.0	710.0		D	709	GAA	E	chick=GAA|human=GAA|mouse=GAA|zebra=GAG	chick=E|human=E|mouse=E|zebra=E	3			
+L747_T751del	TCGA-LUAD	In_Frame_Del	deletion	747,748,749,750,751	747.0	751.0			747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+V300M	TCGA-LUAD	Missense_Mutation	substitution	300	300.0	300.0	V	M	300	GTG	V	chick=GTG|human=GTG|mouse=GTG|zebra=GTG	chick=V|human=V|mouse=V|zebra=V	3	1.248	0.092	3.0
+K754E	TCGA-LUAD	Missense_Mutation	substitution	754	754.0	754.0	K	E	754	AAA	K	chick=AAA|human=AAA|mouse=AAA|zebra=AAA	chick=K|human=K|mouse=K|zebra=K	3	-0.489	0.072	3.0
+L747_E749del	TCGA-LUAD	In_Frame_Del	deletion	747,748,749	747.0	749.0			747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+L747_A750delinsP	TCGA-LUAD	In_Frame_Del	delins	747,748,749,750	747.0	750.0		P	747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+L387M	TCGA-LUAD	Missense_Mutation	substitution	387	387.0	387.0	L	M	387	CTG	L	chick=CTT|human=CTG|mouse=CTA|zebra=CTG	chick=L|human=L|mouse=L|zebra=L	3	0.46	0.056	3.0
+Q432H	TCGA-LUAD	Missense_Mutation	substitution	432	432.0	432.0	Q	H	432	CAA	Q	chick=CAG|human=CAA|mouse=CAA|zebra=ACA	chick=Q|human=Q|mouse=Q|zebra=T	2	-0.685	0.024	3.0
+K754I	TCGA-LUAD	Missense_Mutation	substitution	754	754.0	754.0	K	I	754	AAA	K	chick=AAA|human=AAA|mouse=AAA|zebra=AAA	chick=K|human=K|mouse=K|zebra=K	3	0.266	0.035	3.0
+G901V	TCGA-LUAD	Missense_Mutation	substitution	901	901.0	901.0	G	V	901	GGG	G	chick=GGT|human=GGG|mouse=GGT|zebra=GGT	chick=G|human=G|mouse=G|zebra=G	3	12.628	0.485	3.0
+L907M	TCGA-LUAD	Missense_Mutation	substitution	907	907.0	907.0	L	M	907	TTG	L	chick=TTG|human=TTG|mouse=CTG|zebra=TTG	chick=L|human=L|mouse=L|zebra=L	3	0.686	0.021	3.0
+S921R	TCGA-LUAD	Missense_Mutation	substitution	921	921.0	921.0	S	R	921	AGC	S	chick=AGT|human=AGC|mouse=AGT|zebra=AGT	chick=S|human=S|mouse=S|zebra=S	3	-0.773	0.029	3.0
+I91V	TCGA-LUAD	Missense_Mutation	substitution	91	91.0	91.0	I	V	91	ATT	I	chick=ATT|human=ATT|mouse=ATT|zebra=ATC	chick=I|human=I|mouse=I|zebra=I	3	1.277	0.001	3.0
+R1052I	TCGA-LUAD	Missense_Mutation	substitution	1052	1052.0	1052.0	R	I	1052	AGA	R	chick=AGA|human=AGA|mouse=AGA|zebra=AGA	chick=R|human=R|mouse=R|zebra=R	3	2.148	0.042	3.0
+L858R	OncoSG	Missense_Mutation	substitution	858	858.0	858.0	L	R	858	CTG	L	chick=CTG|human=CTG|mouse=CTG|zebra=CTC	chick=L|human=L|mouse=L|zebra=L	3	-0.025	0.317	3.0
+L62R	OncoSG	Missense_Mutation	substitution	62	62.0	62.0	L	R	62	CTT	L	chick=CTG|human=CTT|mouse=CTT|zebra=CTG	chick=L|human=L|mouse=L|zebra=L	3	2.144	0.433	3.0
+L747_P753delinsS	OncoSG	In_Frame_Del	delins	747,748,749,750,751,752,753	747.0	753.0		S	747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+I759M	OncoSG	Missense_Mutation	substitution	759	759.0	759.0	I	M	759	ATC	I	chick=ATA|human=ATC|mouse=ATC|zebra=ATA	chick=I|human=I|mouse=I|zebra=I	3	0.357	0.102	3.0
+E746_T751delinsA	OncoSG	In_Frame_Del	delins	746,747,748,749,750,751	746.0	751.0		A	746	GAA	E	chick=GAA|human=GAA|mouse=GAG|zebra=GTC	chick=E|human=E|mouse=E|zebra=V	2			
+E746_A750del	OncoSG	In_Frame_Del	deletion	746,747,748,749,750	746.0	750.0			746	GAA	E	chick=GAA|human=GAA|mouse=GAG|zebra=GTC	chick=E|human=E|mouse=E|zebra=V	2			
+V769_D770insSSV	OncoSG	In_Frame_Ins	insertion	769,770	769.0	770.0		SSV	769	GTG	V	chick=GTT|human=GTG|mouse=GTG|zebra=GTT	chick=V|human=V|mouse=V|zebra=V	3			
+E746_S752delinsA	OncoSG	In_Frame_Del	delins	746,747,748,749,750,751,752	746.0	752.0		A	746	GAA	E	chick=GAA|human=GAA|mouse=GAG|zebra=GTC	chick=E|human=E|mouse=E|zebra=V	2			
+L861Q	OncoSG	Missense_Mutation	substitution	861	861.0	861.0	L	Q	861	CTG	L	chick=CTG|human=CTG|mouse=CTG|zebra=CTG	chick=L|human=L|mouse=L|zebra=L	3	1.283	0.204	3.0
+T790M	OncoSG	Missense_Mutation	substitution	790	790.0	790.0	T	M	790	ACG	T	chick=ACC|human=ACG|mouse=ACA|zebra=ACT	chick=T|human=T|mouse=T|zebra=T	3	-1.117	0.013	3.0
+E709_T710delinsD	OncoSG	In_Frame_Del	delins	709,710	709.0	710.0		D	709	GAA	E	chick=GAA|human=GAA|mouse=GAA|zebra=GAG	chick=E|human=E|mouse=E|zebra=E	3			
+L833F	OncoSG	Missense_Mutation	substitution	833	833.0	833.0	L	F	833	TTG	L	chick=CTG|human=TTG|mouse=TTG|zebra=CTT	chick=L|human=L|mouse=L|zebra=L	3	-0.372	0.104	3.0
+G719S	OncoSG	Missense_Mutation	substitution	719	719.0	719.0	G	S	719	GGC	G	chick=GGC|human=GGC|mouse=GGT|zebra=GGC	chick=G|human=G|mouse=G|zebra=G	3	7.481	0.389	3.0
+S768I	OncoSG	Missense_Mutation	substitution	768	768.0	768.0	S	I	768	AGC	S	chick=AGT|human=AGC|mouse=AGT|zebra=AGT	chick=S|human=S|mouse=S|zebra=S	3	1.43	0.172	3.0
+L747_S752del	OncoSG	In_Frame_Del	deletion	747,748,749,750,751,752	747.0	752.0			747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+V843I	OncoSG	Missense_Mutation	substitution	843	843.0	843.0	V	I	843	GTA	V	chick=GTC|human=GTA|mouse=GTA|zebra=GTG	chick=V|human=V|mouse=V|zebra=V	3	-0.784	0.043	3.0
+H870R	OncoSG	Missense_Mutation	substitution	870	870.0	870.0	H	R	870	CAT	H	chick=CAC|human=CAT|mouse=CAT|zebra=CAC	chick=H|human=H|mouse=H|zebra=H	3	-0.766	0.086	3.0
+L833V	OncoSG	Missense_Mutation	substitution	833	833.0	833.0	L	V	833	TTG	L	chick=CTG|human=TTG|mouse=TTG|zebra=CTT	chick=L|human=L|mouse=L|zebra=L	3	0.939	0.02	3.0
+V769L	OncoSG	Missense_Mutation	substitution	769	769.0	769.0	V	L	769	GTG	V	chick=GTT|human=GTG|mouse=GTG|zebra=GTT	chick=V|human=V|mouse=V|zebra=V	3	-0.412	0.082	3.0
+G719C	OncoSG	Missense_Mutation	substitution	719	719.0	719.0	G	C	719	GGC	G	chick=GGC|human=GGC|mouse=GGT|zebra=GGC	chick=G|human=G|mouse=G|zebra=G	3	6.405	0.312	3.0
+D256Y	OncoSG	Missense_Mutation	substitution	256	256.0	256.0	D	Y	256	GAC	D	chick=GAT|human=GAC|mouse=GAT|zebra=GAT	chick=D|human=D|mouse=D|zebra=D	3	-0.314	0.241	3.0
+G724A	OncoSG	Missense_Mutation	substitution	724	724.0	724.0	G	A	724	GGC	G	chick=GGC|human=GGC|mouse=GGC|zebra=GGC	chick=G|human=G|mouse=G|zebra=G	3	5.075	0.193	3.0
+H835L	OncoSG	Missense_Mutation	substitution	835	835.0	835.0	H	L	835	CAC	H	chick=CAC|human=CAC|mouse=CAC|zebra=CAC	chick=H|human=H|mouse=H|zebra=H	3	-0.563	0.094	3.0
+L747_A750del	OncoSG	In_Frame_Del	deletion	747,748,749,750	747.0	750.0			747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+V834L	OncoSG	Missense_Mutation	substitution	834	834.0	834.0	V	L	834	GTG	V	chick=GTG|human=GTG|mouse=GTG|zebra=GTG	chick=V|human=V|mouse=V|zebra=V	3	-0.531	0.065	3.0
+L747_E749del	OncoSG	In_Frame_Del	deletion	747,748,749	747.0	749.0			747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+V774M	OncoSG	Missense_Mutation	substitution	774	774.0	774.0	V	M	774	GTG	V	chick=GTG|human=GTG|mouse=GTA|zebra=GTG	chick=V|human=V|mouse=V|zebra=V	3	0.469	0.281	3.0
+L707W	OncoSG	Missense_Mutation	substitution	707	707.0	707.0	L	W	707	TTG	L	chick=TTA|human=TTG|mouse=TTA|zebra=CTC	chick=L|human=L|mouse=L|zebra=L	3	1.169	0.448	3.0
+E548Q	OncoSG	Missense_Mutation	substitution	548	548.0	548.0	E	Q	548	GAG	E	chick=GAG|human=GAG|mouse=GAG|zebra=GAA	chick=E|human=E|mouse=E|zebra=E	3	3.423	0.164	3.0
+L747_T751del	OncoSG	In_Frame_Del	deletion	747,748,749,750,751	747.0	751.0			747	TTA	L	chick=TTG|human=TTA|mouse=TTA|zebra=TTA	chick=L|human=L|mouse=L|zebra=L	3			
+E709A	OncoSG	Missense_Mutation	substitution	709	709.0	709.0	E	A	709	GAA	E	chick=GAA|human=GAA|mouse=GAA|zebra=GAG	chick=E|human=E|mouse=E|zebra=E	3	0.112	0.127	3.0
+R973L	OncoSG	Missense_Mutation	substitution	973	973.0	973.0	R	L	973	CGA	R	chick=CGT|human=CGA|mouse=CGA|zebra=CGT	chick=R|human=R|mouse=R|zebra=R	3	0.729	0.1	3.0
+A566S	OncoSG	Missense_Mutation	substitution	566	566.0	566.0	A	S	566	GCC	A	chick=GCA|human=GCC|mouse=GCC|zebra=AAT	chick=A|human=A|mouse=A|zebra=N	2	0.039	0.0	3.0
